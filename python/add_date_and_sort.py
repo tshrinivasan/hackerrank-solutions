@@ -1,4 +1,5 @@
-#Create a function which can take two lines of list as input, line one has the list of dates in the format DD:MM:YYY and the line two has list of days need to be added with dates. The function should perform addition between the days and the dates, then print the sorted list of dates in ascending order.
+#Create a function which can take two lines of list as input, line one has the list of dates in the format DD:MM:YYY and the line two has list of days need to be added with dates. 
+#The function should perform addition between the days and the dates, then print the sorted list of dates in ascending order.
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 import sys
